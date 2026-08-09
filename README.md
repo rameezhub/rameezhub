@@ -1,113 +1,206 @@
-<div align="center">
+# 𝙍𝙖𝙢𝙚𝙚𝙯 𝙎𝙖𝙧𝙜𝙪𝙧𝙪
 
-# Hi, I'm Rameez Sarguru 👋
-### Computer Engineering Student · Full-Stack Developer · Goa, India
+### `Computer Engineering Student` • `Full-Stack Developer` • `AI Builder`
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=550&height=50&lines=Building+things+people+actually+use+%F0%9F%9A%80;Full-Stack+%7C+MERN+%7C+AI-assisted+dev;Turning+ideas+into+real+products+%F0%9F%92%A1;Open+to+collabs+%26+freelance+work+%F0%9F%A4%9D" alt="Typing SVG" />
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/coding.keeda_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/RameezSarguru)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:iamrameezsarguru@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/rameezhub)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=rameezhub&color=7c3aed&style=flat&label=Profile+Views)
-
-</div>
-
-<br/>
+<p align="left">
+Building products that solve real problems with thoughtful design, scalable architecture, and modern web technologies.
+</p>
 
 ---
 
-<div align="center">
+## ◈ About Me
 
-### 💫 About Me
+```yaml
+Name: Rameez Sarguru
+Location: Goa, India
 
-</div>
+Education:
+  - Computer Engineering
+
+Currently Focused On:
+  - Full-Stack Development
+  - Modern UI Engineering
+  - AI Powered Applications
+  - Backend Architecture
+  - Product Development
+
+Working With:
+  - Next.js
+  - React
+  - Node.js
+  - Express
+  - MongoDB
+  - FastAPI
+  - Python
+
+Learning:
+  - System Design
+  - Cloud Deployment
+  - AI Integration
+  - Performance Optimization
+
+Philosophy:
+  "Build products people remember, not projects people forget."
+```
+
+---
+
+# ◈ Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **✦ Beacon & Bold** | Premium digital agency website focused on SEO, branding, AI automation & growth solutions with modern animations. | Next.js • React • GSAP |
+| **✦ HairCraft Salon** | Premium salon website with appointment flow, service showcase and luxury UI experience. | HTML • CSS • JavaScript |
+| **✦ SJ Tours & Travel** | Tourism platform featuring destinations, bookings, inquiry management and responsive experience. | React • Node • MongoDB |
+| **✦ ChocoLoop** | Full-stack chocolate store with admin dashboard, authentication, shopping cart and order management. | PHP • MySQL • JavaScript |
+| **✦ Medicine Reminder App** | Smart reminder application with medicine schedules, notifications and health tracking. | React Native • Firebase |
+| **✦ AI Dev Toolkit** | AI powered utilities that automate development workflows using LLMs. | Python • FastAPI • Claude |
+| **✦ E-Commerce Platform** | Production-ready shopping platform with authentication, payments and inventory. | Next.js • MongoDB • Stripe |
+| **✦ Personal Desktop AI Assistant** | Intelligent desktop companion featuring reminders, voice commands and productivity tools. | Python • PyQt6 |
+
+---
+
+# ◈ Tech Arsenal
+
+### Languages
+
+```text
+JavaScript • TypeScript • Python • Java • C • SQL • HTML5 • CSS3
+```
+
+### Frontend
+
+```text
+React
+Next.js
+Tailwind CSS
+Bootstrap
+Framer Motion
+GSAP
+```
+
+### Backend
+
+```text
+Node.js
+Express.js
+FastAPI
+REST APIs
+JWT Authentication
+```
+
+### Database
+
+```text
+MongoDB
+MySQL
+Firebase
+Supabase
+```
+
+### AI & Automation
+
+```text
+Claude
+Gemini
+OpenAI
+Prompt Engineering
+Automation Workflows
+```
+
+### Tools
+
+```text
+Git
+GitHub
+VS Code
+Postman
+Figma
+Vercel
+Render
+Netlify
+```
+
+---
+
+# ◈ Development Workflow
 
 ```
-🎓  Computer Engineering student building real-world, production-ready apps
-⚡  Focused on: Full-stack (MERN), scalable APIs, premium UI systems
-🤖  AI-assisted dev with Claude & Gemini
-🌍  Based in Goa, India
-💬  Ask me about: Full-stack dev · Building with AI · Turning ideas into products
-🎯  I don't just build projects — I build things people would actually use
+Idea
+  │
+Research
+  │
+Wireframes
+  │
+UI System
+  │
+Development
+  │
+Testing
+  │
+Deployment
+  │
+Continuous Improvement
 ```
 
-<br/>
+---
+
+# ◈ Current Focus
+
+```
+▣ Building premium web experiences
+
+▣ Creating AI-powered applications
+
+▣ Designing scalable backend systems
+
+▣ Learning cloud deployment & system design
+
+▣ Shipping production-ready products
+```
 
 ---
 
-<div align="center">
+# ◈ GitHub Analytics
 
-### 🔨 Currently Building
-
-</div>
-
-| Project | Stack | Status |
-|---|---|---|
-| 🏠 HairCraft Salon Website | HTML · CSS · JS | ✅ Live |
-| 🛒 Full-stack E-Commerce App | Next.js · MongoDB · Stripe | 🔧 In Progress |
-| 🤖 AI Dev Toolkit | Python · Claude API · FastAPI | 🧪 Experimenting |
-
-<br/>
+<!-- GitHub Stats -->
 
 ---
 
-<div align="center">
+# 🐍 Contribution Snake
 
-### 💻 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-<br/><br/>
+<!-- KEEP YOUR EXISTING SNAKE HERE -->
 
 ---
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rameezhub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" width="49%" />
-<img src="https://streak-stats.demolab.com?user=rameezhub&theme=tokyonight&hide_border=true" width="49%" />
+# ◈ Connect
 
-### 🐍 Contribution Snake
+```text
+Portfolio   → Coming Soon
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rameezhub/rameezhub/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rameezhub/rameezhub/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rameezhub/rameezhub/output/github-snake.svg" />
-</picture>
+LinkedIn    → linkedin.com/in/rameez-sarguru
 
-<br/><br/>
+GitHub      → github.com/rameezhub
+
+Email       → Available on request
+```
 
 ---
 
-### 💬 Dev Philosophy
+# ◈ Developer Mindset
 
-> *"I don't just build projects — I build things people would actually use."*
+> *"Beautiful interfaces attract users.*
 >
-> — Rameez Sarguru
+> *Reliable systems keep them.*
+>
+> *Great products make them return."*
 
-<br/>
+— **Rameez Sarguru**
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+visiting+my+profile+%F0%9F%99%8F;Let%27s+build+something+together+%F0%9F%A4%9D;Open+to+work+%26+collaborations+%F0%9F%9A%80" alt="footer typing" />
+<p align="center">
 
-</div>
-  
+「 Crafting Digital Products with Code, Design & AI 」
+
+</p>
